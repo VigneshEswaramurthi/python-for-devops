@@ -9,11 +9,11 @@
 ## Installing python and setting up development environment
 
 ### Install python for linux
-yum install python3-pip
-Check the version of python python --version
+- yum install python3-pip
+- Check the version of python python --version
 
 ### Install python for Windows
-Download the python exe file and double click and run it into windows machine 
+- Download the python exe file and double click and run it into windows machine 
 
 
 
